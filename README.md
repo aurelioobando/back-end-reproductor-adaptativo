@@ -37,3 +37,7 @@ Y por ultimo, para empezar a ejecutar el proyecto, tenemos que iniciar el demoni
 
 Dato importante:
 En nuestro proyecto, tenemos que crear la carpeta "uploads" y dentro de esta la carpeta "temp", estas son fundamentales, para que el programa pueda guardar los videos fragmentados, y luego eliminar el video original.
+
+* * *
+Para inicializar el projecto, solo utilice el comando nmp start, esto ejecuara el proyecto en el puerto 3000
+
